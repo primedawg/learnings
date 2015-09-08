@@ -4,4 +4,4 @@ Goals:
 
 - Learn data science and master R
 - Learn proper source control with github
-- Create a good acceptable starting portfolio.
+- Create a good starting portfolio.
